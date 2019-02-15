@@ -5,3 +5,5 @@ list the completed steps.
 
 # Steps
 * Install nasm (Netwide Assembler)
+* Install qemu (machine emulator)
+* Write infinite loop boot sector
